@@ -785,6 +785,13 @@
 			"d": 5.2
 		},
 		{
+			"name": "LG UltraFine 5K Display 27MD5KA-B.AUSA",
+			"w": 5120,
+			"h": 2880,
+			"d": 27,
+			"ppi": 217
+		},
+		{
 			"name": "Micromax A110",
 			"w": 480,
 			"h": 856,
